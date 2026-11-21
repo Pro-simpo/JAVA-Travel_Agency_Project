@@ -1,0 +1,17 @@
+target/
+bin/
+*.class
+
+# Fichiers des environnements de developpement
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+nbactions.xml
+nb-configuration.xml
+.vscode/
+
+.DS_Store
+Thumbs.db
+*.log
